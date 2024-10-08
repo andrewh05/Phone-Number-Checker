@@ -9,7 +9,7 @@ Simple to Use: Just enter the phone number, and the program will tell you which 
 
 ## Getting Started
 Prerequisites
-You need to have Java installed on your computer. You can download it from here.
+You need to have Java installed on your computer. You can download it from here. 
 Running the Program
 Clone the repository:
 
